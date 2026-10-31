@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Fetch Image URL",
+    "description": "GET an HTTP(S) URL and return the response image itself to the model."
+  }
+}

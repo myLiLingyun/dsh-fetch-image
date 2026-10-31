@@ -1,0 +1,4 @@
+# dsh-fetch-image 的 bundle 层：向 profile 插入一个宿主级工具插件。
+- insert:
+    - id: fetch-image
+      name: "dsh-fetch-image"
